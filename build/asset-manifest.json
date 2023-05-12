@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbdf16fa.css",
+    "main.js": "/static/js/main.80ab101a.js",
+    "static/media/nsbrazil.png": "/static/media/nsbrazil.9bc6c987d4dbfba33705.png",
+    "static/media/logoNsBrazil.png": "/static/media/logoNsBrazil.b6316248bbfde5d448a9.png",
+    "index.html": "/index.html",
+    "main.cbdf16fa.css.map": "/static/css/main.cbdf16fa.css.map",
+    "main.80ab101a.js.map": "/static/js/main.80ab101a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdf16fa.css",
+    "static/js/main.80ab101a.js"
+  ]
+}
